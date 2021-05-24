@@ -1,0 +1,9 @@
+.topSide{
+    background-image: url(./asset/top.jpg);
+    background-size: 20px;
+    height: 5px;
+    width: auto;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
